@@ -1,7 +1,7 @@
 # Bursa Belediyesi Geri Donusum Araci Rota Optimizasyonu
 ## ÖMER TAŞKIN
 ## 2212721023
-## Github Repo:
+## Github Repo:https://github.com/omertkn1/aco_yol_optimizasyonu
 ## Proje Tanitimi
 
 Bursa Belediyesine bagli geri donusum araci, haftalik olarak 12 farkli liseden atik toplamaktadir. Bu proje, yakit ve zaman kazanci icin en verimli rotayi belirlemek amaciyla Karinca Kolonisi Optimizasyonu (Ant Colony Optimization - ACO) algoritmasini kullanir.

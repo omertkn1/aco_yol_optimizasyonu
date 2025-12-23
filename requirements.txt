@@ -1,0 +1,7 @@
+streamlit
+googlemaps
+numpy
+matplotlib
+folium
+streamlit-folium
+pandas
